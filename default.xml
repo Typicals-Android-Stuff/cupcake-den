@@ -18,7 +18,7 @@
   <project name="platform/build" path="build" revision="6bce2058567443a02cf80ee3692ff97139b63579">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
-  <project name="platform/dalvik" path="dalvik" revision="2f099e24f514429c5c4d7d1502e32add5ad50ac6"/>
+  <project name="froyocomb/platform_dalvik" path="dalvik" remote="github" revision="cupcake-den_CRA71C_fix"/>
   <project name="platform/development" path="development" revision="59008ebc2c43def1ca918d8f6bcdb5e14df394ef"/>
   <project name="platform/external/aes" path="external/aes" revision="d053197388d73900c3b37cf71df80da76df2ee8a"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="069490a5ca2fd1988d29daf45d892f47ad665115"/>
