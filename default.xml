@@ -80,7 +80,7 @@
   <project name="platform/external/xdelta3" path="external/xdelta3" revision="280cf4827c37fe3dd0f038536d28833154517e92"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="40c4004d07a37a9b140067f893930ce4436b9346"/>
   <project name="platform/external/zlib" path="external/zlib" revision="9e38dfa2f95fce609707a0941f10af9a785288de"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="d06b097626bd83745c2ef3400d7044d675f01b70"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="ba87e3e6c985e7175152993b5efcc7dd2f0e1c93"/>
   <project name="platform/frameworks/opt/com.google.android" path="frameworks/opt/com.google.android" revision="c4038f183d20ce6d7161feac987373e927cc5f50"/>
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="a97b7f3a55bdddc3a8debe865285dcc0593cc2da"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="c420528b485bde825da57337e970131a4707c265"/>
