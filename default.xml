@@ -18,7 +18,7 @@
   <project name="platform/build" path="build" revision="f122bec404e695a2306dc23dd2c05d85f51ca1ba">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
-  <project name="platform/dalvik" path="dalvik" revision="2f099e24f514429c5c4d7d1502e32add5ad50ac6"/>
+  <project name="platform/dalvik" path="dalvik" revision="e52004487739c71b5dc4a446d404e9f73dcbc2d5"/>
   <project name="platform/development" path="development" revision="6ffae015b46e04c31668def201cd1b022a1dcac1"/>
   <project name="platform/external/aes" path="external/aes" revision="d053197388d73900c3b37cf71df80da76df2ee8a"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="b7fe0a72d7d3fed87adf872883d4d6d95b17069f"/>
@@ -98,7 +98,7 @@
   <project name="platform/packages/apps/GoogleSearch" path="packages/apps/GoogleSearch" revision="885cea2123426b16276e5ea9aba87f9ad7d35df8"/>
   <project name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer" revision="199db0c15888d784a786ffa752cc496117d63aad"/>
   <project name="platform/packages/apps/IM" path="packages/apps/IM" revision="f087f9512834fdf7243829a3839e9fbcf4a4b7f1"/>
-  <project name="platform/packages/apps/Launcher" path="packages/apps/Launcher" revision="f96811cdf564469a7a654a0c876288c9fd14f35e"/>
+  <project name="platform/packages/apps/Launcher" path="packages/apps/Launcher" revision="a6425bdead7163daeb74aef9f362c0efeb7ca9d9"/>
   <project name="platform/packages/apps/Mms" path="packages/apps/Mms" revision="5d2d0046ada7b53205e537d8675d32a8785e8d1d"/>
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="c85f677e7b692c0f1a7cba82dd24070d236dc407"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="d420d05b8c396cd80741ee27724f2a1de2dba584"/>
