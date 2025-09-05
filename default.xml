@@ -40,7 +40,7 @@
   <project name="platform/external/expat" path="external/expat" revision="b80e287d54a028e744f9fe412840a89ec7f8084b"/>
   <project name="platform/external/fdlibm" path="external/fdlibm" revision="b07e1d9fd8d9e4e03698e0bd9bf77154c5390326"/>
   <project name="platform/external/freetype" path="external/freetype" revision="049d6fea481044fcc000e7782e5bc7046fc70844"/>
-  <project name="platform/external/gdata" path="external/gdata" revision="65b014e752df14505170881528f22a88f8922835"/>
+  <project name="platform/external/gdata" path="external/gdata" revision="e784ba4a104f64d1f57dad38ff76764b5718bea0"/>
   <project name="platform/external/genext2fs" path="external/genext2fs" revision="2068259fff846977bdd4262fa27ea6cb81d35a78"/>
   <project name="platform/external/giflib" path="external/giflib" revision="c2eacaec90baee57fdbbdbad935d161638894ee7"/>
   <project name="platform/external/googleclient" path="external/googleclient" revision="bb25378f62ca0ebf9a89b2e58591ea96de37090b"/>
