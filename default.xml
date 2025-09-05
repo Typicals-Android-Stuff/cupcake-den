@@ -80,7 +80,7 @@
   <project name="platform/external/xdelta3" path="external/xdelta3" revision="280cf4827c37fe3dd0f038536d28833154517e92"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="d24d8b6057a4f363dad147447910e03a0270b183"/>
   <project name="platform/external/zlib" path="external/zlib" revision="82ffbd8087f586bfa2196914287245a4cdc9f810"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="105925376f8d0f6b318c9938c7b83ef7fef094da"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="c39a6e0c51e182338deb8b63d07933b585134929"/>
   <project name="platform/frameworks/opt/com.google.android" path="frameworks/opt/com.google.android" revision="5e828edf360883f2db12bdf781bae15112385748"/>
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="8dc534239a7b260e1ab2e64d60726ab9ec43f5f1"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="a1d448270a202fbb19131bf50d2f5a3896faef60"/>
@@ -98,7 +98,7 @@
   <project name="platform/packages/apps/GoogleSearch" path="packages/apps/GoogleSearch" revision="885cea2123426b16276e5ea9aba87f9ad7d35df8"/>
   <project name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer" revision="199db0c15888d784a786ffa752cc496117d63aad"/>
   <project name="platform/packages/apps/IM" path="packages/apps/IM" revision="f087f9512834fdf7243829a3839e9fbcf4a4b7f1"/>
-  <project name="platform/packages/apps/Launcher" path="packages/apps/Launcher" revision="ca9475f0403d9c0e843d5c189575068a386b2eb6"/>
+  <project name="platform/packages/apps/Launcher" path="packages/apps/Launcher" revision="f96811cdf564469a7a654a0c876288c9fd14f35e"/>
   <project name="platform/packages/apps/Mms" path="packages/apps/Mms" revision="5d2d0046ada7b53205e537d8675d32a8785e8d1d"/>
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="c85f677e7b692c0f1a7cba82dd24070d236dc407"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="d420d05b8c396cd80741ee27724f2a1de2dba584"/>
