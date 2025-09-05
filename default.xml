@@ -98,7 +98,7 @@
   <project name="platform/packages/apps/GoogleSearch" path="packages/apps/GoogleSearch" revision="885cea2123426b16276e5ea9aba87f9ad7d35df8"/>
   <project name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer" revision="199db0c15888d784a786ffa752cc496117d63aad"/>
   <project name="platform/packages/apps/IM" path="packages/apps/IM" revision="f087f9512834fdf7243829a3839e9fbcf4a4b7f1"/>
-  <project name="platform/packages/apps/Launcher" path="packages/apps/Launcher" revision="a6425bdead7163daeb74aef9f362c0efeb7ca9d9"/>
+  <project name="platform/packages/apps/Launcher" path="packages/apps/Launcher" revision="ca9475f0403d9c0e843d5c189575068a386b2eb6"/>
   <project name="platform/packages/apps/Mms" path="packages/apps/Mms" revision="5d2d0046ada7b53205e537d8675d32a8785e8d1d"/>
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="c85f677e7b692c0f1a7cba82dd24070d236dc407"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="d420d05b8c396cd80741ee27724f2a1de2dba584"/>
