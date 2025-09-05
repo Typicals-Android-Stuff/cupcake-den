@@ -103,7 +103,7 @@
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="c85f677e7b692c0f1a7cba82dd24070d236dc407"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="d420d05b8c396cd80741ee27724f2a1de2dba584"/>
   <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="4b8337277ec2e375c3536b97c40e6617a7b12990"/>
-  <project name="platform/packages/apps/Settings" path="packages/apps/Settings" revision="72ed6feab24308a0acd1fa2135afa3476759cf39"/>
+  <project name="platform/packages/apps/Settings" path="packages/apps/Settings" revision="e6dd1fa1851302710ac7845d25d8ad8a5b6ee438"/>
   <project name="platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="46b98f5ce9c0b199c3fd180cc95216ca66f2b400"/>
   <project name="platform/packages/apps/Stk" path="packages/apps/Stk" revision="ead5740577781f4b5a14dc77dfa15b47fee282bb"/>
   <project name="platform/packages/apps/Sync" path="packages/apps/Sync" revision="93eecff876db2cf05e199d6feeea13e4e70b1b43"/>
