@@ -15,10 +15,10 @@
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="86dcb678f30c588a31321f27af873d7ba2dacfb9"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="8a5bf5700b673c70c1075621ca54c7fddbe9197f"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="c5c389f8f2b43a640667aa53ee3e369033c55569"/>
-  <project name="platform/build" path="build" revision="f122bec404e695a2306dc23dd2c05d85f51ca1ba">
+  <project name="froyocomb/platform_build" path="build" remote="github" revision="cupcake-CRA77-fix">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
-  <project name="platform/dalvik" path="dalvik" revision="e52004487739c71b5dc4a446d404e9f73dcbc2d5"/>
+  <project name="froyocomb/platform_dalvik" path="dalvik" remote="github" revision="cupcake-den_CRA77_fix"/>  
   <project name="platform/development" path="development" revision="6ffae015b46e04c31668def201cd1b022a1dcac1"/>
   <project name="platform/external/aes" path="external/aes" revision="d053197388d73900c3b37cf71df80da76df2ee8a"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="b7fe0a72d7d3fed87adf872883d4d6d95b17069f"/>
