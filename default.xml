@@ -87,7 +87,7 @@
   <project name="platform/frameworks/policies/base" path="frameworks/policies/base" revision="d9545f550cae5ef63a584f69ff3bc7369fa2f40a"/>
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="8232b50d981ce9c584fc1a4af82dae5e70e6ce52"/>
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="ec19f1e4f0f46544b0901f642cc4cbe1e42010d4"/>
-  <project name="platform/hardware/ril" path="hardware/ril" revision="e6e6fb2ebbaae681ab45b866bb9bba57aff1c33c"/>
+  <project name="platform/hardware/ril" path="hardware/ril" revision="34a5108969fbfc6cf8140513b7246da805902b7a"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="72a37ccef83271f175c94b71f2d0abac8b4aefa4"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="f59ec877363eaf43118677f249008eddc7a9ce11"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="d7ebda6c7ce40dab24dc1c9d56e014993e05cac2"/>
