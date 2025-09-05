@@ -109,11 +109,11 @@
   <project name="platform/packages/apps/Sync" path="packages/apps/Sync" revision="93eecff876db2cf05e199d6feeea13e4e70b1b43"/>
   <project name="platform/packages/apps/Updater" path="packages/apps/Updater" revision="7dd76deaf14c5e12d43ac83a297434a552bd6cb2"/>
   <project name="platform/packages/apps/VoiceDialer" path="packages/apps/VoiceDialer" revision="538879a6f24ff7305e66d719e751b5d612029bf3"/>
-  <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="01e11337e4131112d59ea5aa7240ede1ba65ee2c"/>
+  <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="383907963c93e41e1cd88b760c7c5e620ccd77bc"/>
   <project name="platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="bf22eb48f17911965daae1679a972d3a4edf2c0b"/>
   <project name="platform/packages/providers/DownloadProvider" path="packages/providers/DownloadProvider" revision="d311b453a4ea32dcc01e766da972c6837b7705ec"/>
   <project name="platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider" revision="3652983997b8c05d9c11e83ef29b02fe68957e5e"/>
-  <project name="platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider" revision="5a14a31d7d7d7cfa76b7a8c585119a575689d9ac"/>
+  <project name="platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider" revision="85a0bb543cab9f04d914ee668ba49aa4e1afae70"/>
   <project name="platform/packages/providers/GoogleSubscribedFeedsProvider" path="packages/providers/GoogleSubscribedFeedsProvider" revision="9faf20387563b2644920cfcc2a76102cb2b82330"/>
   <project name="platform/packages/providers/ImProvider" path="packages/providers/ImProvider" revision="60a38e671d21fe608efddd9aeb5857633ad9a5ad"/>
   <project name="platform/packages/providers/MediaProvider" path="packages/providers/MediaProvider" revision="fe6c1212c1700e29c1f6c03c1a99dba3e2844886"/>
