@@ -92,7 +92,7 @@
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="a3c0aabac06a1390d1d49f34b9bac74534b606c8"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="d7ebda6c7ce40dab24dc1c9d56e014993e05cac2"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="8af2529989a9b10a0bb84736695c22fc02a17a4a"/>
-  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="8d0dd0e2ee9a9f8d729ed96597102777cf14701f"/>
+  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="de365d87520c97d6b1636442e6b5c82a3e036f29"/>
   <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="37a16acbcb44ecadf1b006c110e750ba9c5c621e"/>
   <project name="platform/packages/apps/Email" path="packages/apps/Email" revision="3469902379242c723b871d1dcb09b02d0998d538"/>
   <project name="platform/packages/apps/GoogleSearch" path="packages/apps/GoogleSearch" revision="885cea2123426b16276e5ea9aba87f9ad7d35df8"/>
