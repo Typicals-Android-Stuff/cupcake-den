@@ -120,7 +120,7 @@
   <project name="platform/packages/providers/TelephonyProvider" path="packages/providers/TelephonyProvider" revision="cba49645b81935baab0fa5e1e59530ab78558799"/>
   <project name="platform/prebuilt" path="prebuilt" revision="9e5e5c06d2218c0a17b515ac95d06c1cee1fb824"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="df782f29a530d805c13f32bb43883306c05a4504"/>
-  <project name="platform/system/core" path="system/core" revision="f614d64d4b4dfcd20c77ac3ccf2d9c9090a49303"/>
+  <project name="platform/system/core" path="system/core" revision="ca983f98badd6b19c1a4475642cd3b370d953767"/>
   <project name="platform/system/extras" path="system/extras" revision="26aaac4bf942c4f51de0f10ea85edf9751c234c8"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="6f4d4701e9ed8767b70203a0f6348dc5cf5f9f0c"/>
 </manifest>
