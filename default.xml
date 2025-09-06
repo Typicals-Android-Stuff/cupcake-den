@@ -18,7 +18,7 @@
   <project name="froyocomb/platform_build" path="build" remote="github" revision="cupcake-CRA78C-fix">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
-  <project name="platform/dalvik" path="dalvik" revision="3b5fe2883109da9470a8baf20e6700aba0d78193"/>
+  <project name="froyocomb/platform_dalvik" path="dalvik" remote="github" revision="cupcake-den-CRA78C-fix">
   <project name="platform/development" path="development" revision="b0bdccc71a1fc97e88a07864597773637dcdcab2"/>
   <project name="platform/external/aes" path="external/aes" revision="d053197388d73900c3b37cf71df80da76df2ee8a"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="b7fe0a72d7d3fed87adf872883d4d6d95b17069f"/>
@@ -123,4 +123,5 @@
   <project name="platform/system/core" path="system/core" revision="3207e480716889c4fdc6937b54a229e87bb2a5f3"/>
   <project name="platform/system/extras" path="system/extras" revision="faa9009589421a3cf6b16779e9a270ee06e11db2"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="d3fffb9251a7d4b8ce1f74d48050a528353a4817"/>
+
 </manifest>
