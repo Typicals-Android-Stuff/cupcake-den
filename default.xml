@@ -10,15 +10,14 @@
   <default revision="master"
            remote="aosp"
            sync-j="4" />
-  <project name="kernel/common" path="kernel" revision="0660cc5f8f432b3908ae0b669a8e3c2de3f37366"/>
   <project name="platform/bionic" path="bionic" revision="29a2875eaa3b7bd552f4fd8ecd93197219e0e406"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="78ef28c19e0ff8d8d2914932d02339cbd291bd79"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="ea0322a7061930bef783cbe226fd6228ee824aad"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="275acbe70a8024951db39d6b415cbe63ce09f965"/>
-  <project name="platform/build" path="build" revision="57d1b2441458ee3dbcc7f8b12052c7f5427bc8b6">
+  <project name="froyocomb/platform_build" path="build" remote="github" revision="cupcake-Apr06-fix">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
-  <project name="platform/dalvik" path="dalvik" revision="6f31358ad40be3945c28bb1a1e3ce40d4fc7a533"/>
+  <project name="froyocomb/platform_dalvik" path="dalvik" remote="github" revision="cupcake-den-Apr06-fix">
   <project name="platform/development" path="development" revision="119bbaef05710c02ba1db4d6b9378776e8983cab"/>
   <project name="platform/external/aes" path="external/aes" revision="d053197388d73900c3b37cf71df80da76df2ee8a"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="009f06e8c754b4f1fb69a526edf5ba74ad904de6"/>
@@ -125,4 +124,5 @@
   <project name="platform/system/core" path="system/core" revision="83eb023a09d2f5782bf9153d761cbdda4ce45b22"/>
   <project name="platform/system/extras" path="system/extras" revision="5d33237621effd3a9a6457c02571206a2a7c3b61"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="68cd20fe80c13aa408301d0e5ac69c416055fe56"/>
+
 </manifest>
