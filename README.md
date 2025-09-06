@@ -3,7 +3,7 @@ cupcake-den: Cupcake Restoration Project
 
 This repository contains reconstructed `repo` manifests of the six only known Android 1.5 ("Cupcake") builds to be available via AOSP.
 
-As of now, the following builds have been reconstructed:
+As of now, all of the following builds have been reconstructed:
 
 | Build ID & manifest branch               | Status              |
 | :--------------------------------------: | :-----------------: |
@@ -12,14 +12,13 @@ As of now, the following builds have been reconstructed:
 | [`CRA71C`]  (March 13, 2009)             | Done                |
 | [`CRA77`] (March 18, 2009)               | Done                |
 | [`CRA78C`] (March 24, 2009)              | Done                |
-| [`April 6 2009 build`]                   | Work in progress    |
 
 [`December 17 2008 build`]: https://github.com/froyocomb/cupcake-den/tree/MASTER-20081217
 [`February 10 2009 build`]: https://github.com/froyocomb/cupcake-den/tree/MASTER-20090210
 [`CRA71C`]: https://github.com/froyocomb/cupcake-den/tree/CRA71C
 [`CRA77`]: https://github.com/froyocomb/cupcake-den/tree/CRA77
 [`CRA78C`]: https://github.com/froyocomb/cupcake-den/tree/CRA78C
-[`April 6 2009 build`]: https://github.com/froyocomb/cupcake-den/tree/CUPCAKE-20090406
+
 Preparing a Build Environment
 -----------------
 
