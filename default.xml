@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  
   <remote name="aosp"
            fetch="https://android.googlesource.com" />
   
@@ -9,6 +10,7 @@
   <default revision="master"
            remote="aosp"
            sync-j="4" />
+  
   <project name="platform/bionic" path="bionic" revision="29a2875eaa3b7bd552f4fd8ecd93197219e0e406"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="78ef28c19e0ff8d8d2914932d02339cbd291bd79"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="ea0322a7061930bef783cbe226fd6228ee824aad"/>
@@ -124,5 +126,3 @@
   <project name="platform/system/extras" path="system/extras" revision="5d33237621effd3a9a6457c02571206a2a7c3b61"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="68cd20fe80c13aa408301d0e5ac69c416055fe56"/>
 </manifest>
-
-
