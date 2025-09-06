@@ -1,9 +1,9 @@
 cupcake-den: Cupcake Restoration Project 
 ===========================================
 
-This repository contains reconstructed `repo` manifests of the six only known Android 1.5 ("Cupcake") builds to be available via AOSP.
+This repository contains reconstructed `repo` manifests of the five only known Android 1.5 ("Cupcake") builds to be available via AOSP.
 
-As of now, all of the following builds have been reconstructed:
+As of now, all of the planned builds have been reconstructed:
 
 | Build ID & manifest branch               | Status              |
 | :--------------------------------------: | :-----------------: |
