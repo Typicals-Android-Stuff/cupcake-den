@@ -90,7 +90,7 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="e6e6fb2ebbaae681ab45b866bb9bba57aff1c33c"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="69dabe13f25d6a0cd98041eb2b88f24701e0ce5b"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="a3c0aabac06a1390d1d49f34b9bac74534b606c8"/>
-  <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="d7ebda6c7ce40dab24dc1c9d56e014993e05cac2"/>
+  <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="49b590cea4bcf7c7a1b36b4b600e97cd61263d8c"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="8af2529989a9b10a0bb84736695c22fc02a17a4a"/>
   <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="de365d87520c97d6b1636442e6b5c82a3e036f29"/>
   <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="37a16acbcb44ecadf1b006c110e750ba9c5c621e"/>
@@ -123,4 +123,5 @@
   <project name="platform/system/core" path="system/core" revision="f614d64d4b4dfcd20c77ac3ccf2d9c9090a49303"/>
   <project name="platform/system/extras" path="system/extras" revision="26aaac4bf942c4f51de0f10ea85edf9751c234c8"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="6f4d4701e9ed8767b70203a0f6348dc5cf5f9f0c"/>
+
 </manifest>
