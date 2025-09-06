@@ -12,7 +12,7 @@ As of now, the following builds have been reconstructed:
 | [`CRA71C`]  (March 13, 2009)             | Done                |
 | [`CRA77`] (March 18, 2009)               | Done                |
 | [`CRA78C`] (March 24, 2009)              | Done                |
-| [`April 6 2009 build`]                   | Work in Progress    |
+| [`April 6 2009 build`]                   | Work in progress    |
 
 [`December 17 2008 build`]: https://github.com/froyocomb/cupcake-den/tree/MASTER-20081217
 [`February 10 2009 build`]: https://github.com/froyocomb/cupcake-den/tree/MASTER-20090210
