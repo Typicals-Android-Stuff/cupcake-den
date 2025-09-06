@@ -57,7 +57,7 @@
   <project name="platform/external/netcat" path="external/netcat" revision="ae36a17a45197937c252482d7055188d7bbb39e3"/>
   <project name="platform/external/netperf" path="external/netperf" revision="106bafb66c3945a671306173d28631ab4f81cb67"/>
   <project name="platform/external/neven" path="external/neven" revision="1d07e4cb6f77c0c1994229aa39e978bd3d64ab71"/>
-  <project name="platform/external/opencore" path="external/opencore" revision="7bcfcd5a4b57a40470128b087e0c1e709c07942b"/>
+  <project name="platform/external/opencore" path="external/opencore" revision="8053228ee51a6de1923de95fdf6a8f02521a65d9"/>
   <project name="platform/external/openssl" path="external/openssl" revision="a1c90def495a69847f04ee587d66d09d09972802"/>
   <project name="platform/external/oprofile" path="external/oprofile" revision="004a95dd33d26fab20dea67063c39181f6cd486b"/>
   <project name="platform/external/ping" path="external/ping" revision="d3cad56f1ec9dceddf68a00e46c28c188fe8ee2c"/>
