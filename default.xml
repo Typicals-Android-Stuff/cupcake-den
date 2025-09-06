@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
   <remote name="aosp"
            fetch="https://android.googlesource.com" />
   
@@ -125,4 +124,5 @@
   <project name="platform/system/extras" path="system/extras" revision="5d33237621effd3a9a6457c02571206a2a7c3b61"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="68cd20fe80c13aa408301d0e5ac69c416055fe56"/>
 </manifest>
+
 
