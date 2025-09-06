@@ -65,7 +65,7 @@
   <project name="platform/external/protobuf" path="external/protobuf" revision="8d2478a896b5cac3365b868eb5818ce25017f423"/>
   <project name="platform/external/qemu" path="external/qemu" revision="db31254d715196dd788ca30fdf8d6f23cffd0189"/>
   <project name="platform/external/safe-iop" path="external/safe-iop" revision="30ba8d63969f921ff72f89241613d83b4370d6b4"/>
-  <project name="platform/external/skia" path="external/skia" revision="07b2c540eeca2e21cfbe412a0737ae84e9f7a8ef"/>
+  <project name="platform/external/skia" path="external/skia" revision="fdb5e5531df4baa7e755d56907f352e1b6c1965b"/>
   <project name="platform/external/sonivox" path="external/sonivox" revision="96f1d293325c6964c0aff141b51c09e0e9f1756e"/>
   <project name="platform/external/sqlite" path="external/sqlite" revision="c548c5973ee191715d118a442c496982ca2ff484"/>
   <project name="platform/external/srec" path="external/srec" revision="66d9f39f64360565c0b7176218412135b8242528"/>
