@@ -125,4 +125,6 @@
   <project name="platform/system/core" path="system/core" revision="83eb023a09d2f5782bf9153d761cbdda4ce45b22"/>
   <project name="platform/system/extras" path="system/extras" revision="5d33237621effd3a9a6457c02571206a2a7c3b61"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="68cd20fe80c13aa408301d0e5ac69c416055fe56"/>
+
 </manifest>
+
